@@ -66,8 +66,4 @@ $ sf project deploy start -x manifest/package.xml
 - Set up a role hierarchy in your Salesforce org to reflect your organization's structure.
 - This hierarchy is essential for managers to access and manage their team members' leave requests.
 
-## Notes
 
-- This application is a demo and implements only the most basic flow of a leave management system.
-- It does not include validations such as checking if the user has sufficient leave balances.
-- In this demo version, all users are assigned the same leave entitlements.
