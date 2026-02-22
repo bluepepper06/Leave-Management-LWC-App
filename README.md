@@ -4,8 +4,6 @@
 
 The Leave Management LWC App is a personal project and demo application for learning purposes. It's a basic yet functional tool for handling leave requests, tailored to demonstrate the essentials of a leave management system within an organization. The app, designed with user-friendliness in mind, serves to illustrate how employees and managers can interact with leave balances and requests. Structured as a Salesforce Lightning Web Component (LWC), this application offers a practical example of LWC capabilities in implementing core features of a leave management system.
 
-![Leave Management App Screenshot](/images/leave_management.png)
-
 ## App LWC Structure
 
 The app is built on a Lightning App Page and includes the following components:
